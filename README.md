@@ -12,13 +12,13 @@ Obs: pasta mysql com os creates das tabelas Products e Categories.
 link gravação tela CRUD funcionando: https://loom.com/share/34de86833f004e98ad873d495b47081b
 
 lista endpoints Categories
-GET http://localhost:8000/api/categories
-POST http://localhost:8000/api/categories
-PUT http://localhost:8000/api/categories/{id}
-DELETE http://localhost:8000/api/categories/{id}
+-GET http://localhost:8000/api/categories
+-POST http://localhost:8000/api/categories
+-PUT http://localhost:8000/api/categories/{id}
+-DELETE http://localhost:8000/api/categories/{id}
 
 lista endpoints Products
-GET http://localhost:8000/api/products
-POST http://localhost:8000/api/products
-PUT http://localhost:8000/api/products/{id}
-DELETE http://localhost:8000/api/products/{id}
+-GET http://localhost:8000/api/products
+-POST http://localhost:8000/api/products
+-PUT http://localhost:8000/api/products/{id}
+-DELETE http://localhost:8000/api/products/{id}
