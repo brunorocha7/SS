@@ -12,14 +12,14 @@
             <div class="row gx-5">
                 <div class="col">
                     <div class="p-3 border bg-light">
-                        <a href="{{ url('/category') }}" class="btn btn-info btn-lg" title="Categories">
-                            Categorias
+                        <a href="{{ url('/categories') }}" class="btn btn-info btn-lg" title="Categories">
+                        Categorias
                         </a>
                     </div>
                 </div>
                 <div class="col">
                 <div class="p-3 border bg-light">
-                    <a href="{{ url('/product') }}" class="btn btn-info btn-lg" title="Products">
+                    <a href="{{ url('/products') }}" class="btn btn-info btn-lg" title="Products">
                         Produtos
                     </a>
                 </div>
